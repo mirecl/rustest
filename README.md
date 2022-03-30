@@ -1,4 +1,4 @@
-<img src="https://pepy.tech/badge/pprof?kill_cache=1"/>
+<a href="https://pepy.tech/badge/pprof"><img src="https://pepy.tech/badge/pprof?kill_cache=1"/></a>
 <img src="https://pepy.tech/badge/pprof"/>
 
 ### Версии:
