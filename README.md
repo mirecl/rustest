@@ -1,3 +1,6 @@
+<img src="https://pepy.tech/badge/pprof?kill_cache=1"/>
+<img src="https://pepy.tech/badge/pprof"/>
+
 ### Версии:
 Python - **3.6.15**:
 + xmltodict - **0.12.0**
