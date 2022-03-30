@@ -1,7 +1,7 @@
 <a href="https://pepy.tech/project/pprof"><img src="https://pepy.tech/badge/pprof?kill_cache=1"/></a>
 <img src="https://pepy.tech/badge/pprof"/>
 
-![GitHub](https://img.shields.io/github/license/mirecl/pprof)
+<img src=https://img.shields.io/github/license/mirecl/pprof/>
 
 ### Версии:
 Python - **3.6.15**:
